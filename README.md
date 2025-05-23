@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <p align="center">🎓 Desenvolvedor de Software em formação | Apaixonado por programação, aprendizado e criação de coisas incríveis!</p>
+  <p align="center">🎓 Software Developer in training | Passionate about coding, learning and building cool stuff! </p>
 </div>
 
 ##
