@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Welcome to my profile! My name is <a href="https://www.linkedin.com/in/fersouzza/"><i>Fernando Souza</i></a></h1>
-  <h1 align="center"> ≧◉◡◉≦ </h1>
+  <h1 align="center"> 🧑🏻‍💻 </h1>
   <p align="center">Pronouns: He/Him 🌟</p>
 </div>
 
