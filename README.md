@@ -19,7 +19,7 @@
 ##
 
 <div align="center">
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="148" height="180" src="https://cdn-images-1.medium.com/v2/resize:fit:688/1*82D2cg8Gpe9CVISaph6RPg.gif">
 </div>
 
 ##
