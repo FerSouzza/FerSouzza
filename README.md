@@ -19,7 +19,7 @@
 ##
 
 <div align="center">
-  <img align="center" width="148" height="180" src="https://cdn-images-1.medium.com/v2/resize:fit:688/1*82D2cg8Gpe9CVISaph6RPg.gif">
+  <img align="center" width="250" height="180" src="https://cdn-images-1.medium.com/v2/resize:fit:688/1*82D2cg8Gpe9CVISaph6RPg.gif">
 </div>
 
 ##
