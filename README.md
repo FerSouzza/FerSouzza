@@ -1,18 +1,18 @@
 <h1 align="center">
-  Olá, eu sou o <a href="https://www.linkedin.com/in/fersouzza/" target="_blank">Fernando Souza</a> 👋
+  Hi there, I'm <a href="https://www.linkedin.com/in/fersouzza/" target="_blank">Fernando Souza</a> 👋
 </h1>
 
 <h3 align="center">
-  💻 Desenvolvedor em formação | ⚙️ Explorando tecnologia e código todos os dias!
+  💻 Software Developer in training | ⚙️ Always exploring tech and code!
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+in+training;Apaixonado+por+tecnologia;Sempre+aprendendo+coisas+novas;Bem-vindo+ao+meu+GitHub!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+in+training;Passionate+about+technology;Always+learning+new+things;Welcome+to+my+GitHub!&center=true&width=500&height=50">
 </p>
 
 ---
 
-### 🚀 **Tecnologias que estou aprendendo**
+### 🚀 **Technologies I'm currently learning**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -24,7 +24,7 @@
 
 ---
 
-### 📈 **Meus stats no GitHub**
+### 📈 **GitHub Stats**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerSouzza&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📫 **Conecte-se comigo!**
+### 📫 **Connect with me**
 
 <p align="center">
   <a href="https://www.instagram.com/fernandosouzza/" target="_blank">
