@@ -1,40 +1,54 @@
-<div>
-  <h1 align="center">Welcome to my profile! My name is <a href="https://www.linkedin.com/in/fersouzza/"><i>Fernando Souza</i></a></h1>
-  <h1 align="center"> 🧑🏻‍💻 </h1>
-  <p align="center">Paraná 🇧🇷</p>
-</div>
-<div>
-  <p align="center">🎓 Software Developer in training | Passionate about coding, learning and building cool stuff!
-  </p>
-</div>
+<h1 align="center">
+  Olá, eu sou o <a href="https://www.linkedin.com/in/fersouzza/" target="_blank">Fernando Souza</a> 👋
+</h1>
 
-##
+<h3 align="center">
+  💻 Desenvolvedor em formação | ⚙️ Explorando tecnologia e código todos os dias!
+</h3>
 
-<div align="center">
-  <a href="https://github.com/FerSouzza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerSouzza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+in+training;Apaixonado+por+tecnologia;Sempre+aprendendo+coisas+novas;Bem-vindo+ao+meu+GitHub!&center=true&width=500&height=50">
+</p>
+
+---
+
+### 🚀 **Tecnologias que estou aprendendo**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+</p>
+
+---
+
+### 📈 **Meus stats no GitHub**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerSouzza&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerSouzza&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</p>
 
-##
+---
 
-<div align="center">
-  <img align="center" width="250" height="180" src="https://cdn-images-1.medium.com/v2/resize:fit:688/1*82D2cg8Gpe9CVISaph6RPg.gif">
-</div>
+### 📫 **Conecte-se comigo!**
 
-##
-
-<div align="center"> 
+<p align="center">
   <a href="https://www.instagram.com/fernandosouzza/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://discord.com/users/303063168492208138" target="_blank">
     <img src="https://img.shields.io/badge/Discord-FerSouza%230471-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
   <a href="https://www.linkedin.com/in/fersouzza/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-</div>
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlRmB8nK1w6OZRq/giphy.gif" width="300">
+</p>
